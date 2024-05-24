@@ -18,3 +18,8 @@ mettre les données web dans www/
 Changer les valeurs de connexion a la bdd mariadb ( serveur : mariadb pour le reste voir docker-compose.yml ) 
 lancer avec ```docker compose up -d```  
 lancer ensuite ```ìnitbdd.sh```
+
+
+
+# PHP OBJET
+Premier cours php objet
